@@ -1,0 +1,43 @@
+#Button{
+  position:absolute;
+  margin: auto;
+}
+
+/* .butt{
+  background-color: darkblue;
+} */
+
+.todolist{
+  float: left;
+  display: block;
+  width: 250px;
+  height: 350px;
+  border: solid;
+  margin: 2px;
+  border-color: cyan;
+  margin-left: 20px;
+  margin-top: 50px;
+  text-align: center;
+  border-width: thick;
+
+
+
+}
+.done{
+  float: right;
+  display: block;
+  width: 250px;
+  height: 350px;
+  border: solid;
+  margin: 2px;
+  border-color: darkorchid;
+  margin-right: 20px;
+  margin-top: 50px;
+  text-align: center;
+  
+}
+
+.card-item{
+  display: flex;
+  flex-direction: row;
+}

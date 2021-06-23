@@ -1,0 +1,16 @@
+#todolist{
+  border-width: 3px;
+  border-style: solid;
+  border-color: red; 
+  width: 150px;
+  height: 350px;
+  display: block;
+  margin-top: 60px;
+  margin-left: 20px;
+  text-align: center;
+}
+#butt{
+  background-color: cyan;
+}
+
+
